@@ -2,7 +2,7 @@
 As a sem project made a bot which can be directed using EEG signals from a NeuroSky Mindwave Mobile device.
 
 I used NeuroSky Mindwave Mobile device to read the EEG signals of a user.
-![Neurosky Mindwave Mobile](https://images-na.ssl-images-amazon.com/images/I/71zoF122ogL._SL1500_.jpg)
+<a href="url"><img src="https://images-na.ssl-images-amazon.com/images/I/71zoF122ogL._SL1500_.jpg" align="left" height="480" width="480" ></a>
 
 To get the data run the <code>Program.cs</code> file in the rawdata folder.
 
